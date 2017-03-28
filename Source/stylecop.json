@@ -1,0 +1,21 @@
+﻿{
+  // ACTION REQUIRED: This file was automatically added to your project, but it
+  // will not take effect until additional steps are taken to enable it. See the
+  // following page for additional information:
+  //
+  // https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/EnableConfiguration.md
+
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Aurelitec",
+      "copyrightText": "Copyright (c) {years} {companyName}\n{url}\nLicensed under the {licenseName}. See {licenseFile} file in the project root for full license information.",
+      "variables": {
+	    "url": "http://www.aurelitec.com",
+	    "years": "2009-2017",
+        "licenseName": "GNU General Public License v3.0",
+        "licenseFile": "LICENSE"
+      }
+    }
+  }
+}
