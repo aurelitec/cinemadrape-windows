@@ -115,7 +115,7 @@
             this.menuMainAbout,
             this.menuMainExit});
             this.menuMain.Name = "menuContext";
-            this.menuMain.Size = new System.Drawing.Size(237, 424);
+            this.menuMain.Size = new System.Drawing.Size(237, 402);
             this.menuMain.Opening += new System.ComponentModel.CancelEventHandler(this.EventMenuMainOpening);
             // 
             // menuMainDrape

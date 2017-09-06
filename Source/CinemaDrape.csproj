@@ -58,7 +58,7 @@
     <RunCodeAnalysis>false</RunCodeAnalysis>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>MainIconV1.ico</ApplicationIcon>
+    <ApplicationIcon>CinemaDrapeAppIcon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
@@ -158,7 +158,7 @@
     <AdditionalFiles Include="stylecop.json" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MainIconV1.ico" />
+    <Content Include="CinemaDrapeAppIcon.ico" />
     <None Include="Resources\CinemaDrapeQuickStartFocusAreaV2.png" />
   </ItemGroup>
   <ItemGroup>

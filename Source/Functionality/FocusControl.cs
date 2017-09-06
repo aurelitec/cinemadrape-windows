@@ -93,7 +93,7 @@ namespace CinemaDrape
                 true);
             this.DoubleBuffered = true;
             this.borderSize = 32;
-            this.BorderColor = ColorTranslator.FromHtml("#1BADEA");
+            this.BorderColor = Color.Red;
             this.creationEnded = false;
 
             // Brings the focus control to front
@@ -106,13 +106,15 @@ namespace CinemaDrape
         /// <param name="owner">The owner of the focus control.</param>
         /// <param name="bounds">The bounds of the focus control.</param>
         /// <param name="menu">The context menu associated with the focus control.</param>
+        /// <param name="borderColor">The border color.</param>
         /// <param name="fullCreate">True to fully create the focus control, false otherwise.</param>
-        public FocusControl(Form owner, Rectangle bounds, ContextMenuStrip menu, bool fullCreate)
+        public FocusControl(Form owner, Rectangle bounds, ContextMenuStrip menu, Color borderColor, bool fullCreate)
             : this()
         {
             this.BackColor = owner.TransparencyKey;
             this.Bounds = bounds;
             this.ContextMenuStrip = menu;
+            this.BorderColor = borderColor;
             owner.Controls.Add(this);
             this.InitBorderPens();
             this.CreationEnded = fullCreate;

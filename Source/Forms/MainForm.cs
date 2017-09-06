@@ -255,6 +255,7 @@ namespace CinemaDrape
                             this,
                             new Rectangle(this.newFocusAreaLocation, Size.Empty),
                             this.menuFocus,
+                            this.appColor,
                             false);
                     }
 

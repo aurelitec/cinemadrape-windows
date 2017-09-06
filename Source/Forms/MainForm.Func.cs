@@ -87,7 +87,7 @@ namespace CinemaDrape
         /// <param name="rect">The bounds of the new focus area.</param>
         private void AddNewFocusArea(Rectangle rect)
         {
-            FocusControl focusArea = new FocusControl(this, rect, this.menuFocus, true);
+            FocusControl focusArea = new FocusControl(this, rect, this.menuFocus, this.appColor, true);
             this.CompleteNewFocusArea(focusArea);
         }
 

@@ -27,7 +27,7 @@ namespace CinemaDrape
         /// <summary>
         /// The color of the highlighted menu items.
         /// </summary>
-        private readonly Color brandColor = ColorTranslator.FromHtml("#1BADEA");
+        private readonly Color appColor = ColorTranslator.FromHtml("#D1111C");
 
         /// <summary>
         /// The color of the radio check bullet for radio menu items.

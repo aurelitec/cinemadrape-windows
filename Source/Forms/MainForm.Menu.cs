@@ -59,7 +59,7 @@ namespace CinemaDrape
             // Modernize the menu, with a black background and an Aurelitec blue hightlight
             MenuToolStripCustomizer customizer = MenuToolStripCustomizer.Modernize(
                 Color.FromArgb(10, 10, 10),
-                this.brandColor,
+                this.appColor,
                 Color.White,
                 10,
                 0.8d,
