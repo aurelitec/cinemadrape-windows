@@ -159,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CinemaDrapeAppIcon.ico" />
+    <None Include="Resources\CinemaDrapeQuickStartFocusAreaV3.png" />
     <None Include="Resources\CinemaDrapeQuickStartFocusAreaV2.png" />
   </ItemGroup>
   <ItemGroup>

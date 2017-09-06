@@ -117,17 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="StringSettingsDrapeOpacity" xml:space="preserve">
-    <value>DrapeOpacity</value>
+  <data name="StringQuickPause" xml:space="preserve">
+    <value>To pause and hide the drape to the taskbar notification area, double-click or press {0}.</value>
   </data>
   <data name="StringSettingsFocusArea" xml:space="preserve">
     <value>FocusArea</value>
   </data>
   <data name="StringSettingsShowQuickStart" xml:space="preserve">
     <value>ShowQuickStart</value>
-  </data>
-  <data name="StringQuickPause" xml:space="preserve">
-    <value>To pause and hide the drape to the taskbar notification area, double-click or press {0}.</value>
   </data>
   <data name="StringSettingsFormPeekOpacity" xml:space="preserve">
     <value>Peek through opacity: {0}%</value>
@@ -144,11 +141,14 @@
   <data name="StringMenuRestore" xml:space="preserve">
     <value>&amp;Restore</value>
   </data>
+  <data name="StringPauseBalloonTip" xml:space="preserve">
+    <value>To restore CinemaDrape, left-click its icon. Or right-click to get the menu.</value>
+  </data>
   <data name="StringMenuPause" xml:space="preserve">
     <value>Hide (&amp;Pause)</value>
   </data>
-  <data name="StringMenuAutodetectAreaStart" xml:space="preserve">
-    <value>Click or tap anywhere inside the area underneath the drape that you want to autodetect. To cancel, press Escape, right-click or long tap.</value>
+  <data name="StringSettingsDrapeOpacity" xml:space="preserve">
+    <value>DrapeOpacity</value>
   </data>
   <data name="StringMenuOpacity" xml:space="preserve">
     <value>&amp;Opacity ({0:0%})</value>
@@ -168,11 +168,11 @@
   <data name="StringErrorLoadingUrl" xml:space="preserve">
     <value>Error opening the Web page located at:</value>
   </data>
-  <data name="StringPauseBalloonTip" xml:space="preserve">
-    <value>To restore CinemaDrape, left-click its icon. Or right-click to get the menu.</value>
+  <data name="StringMenuAutodetectAreaStart" xml:space="preserve">
+    <value>Click or tap anywhere inside the area underneath the drape that you want to autodetect. To cancel, press Escape, right-click or long tap.</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="CinemaDrapeQuickStartFocusAreaV2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CinemaDrapeQuickStartFocusAreaV2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="CinemaDrapeQuickStartFocusAreaV3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CinemaDrapeQuickStartFocusAreaV3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
