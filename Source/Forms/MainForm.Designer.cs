@@ -379,6 +379,7 @@
             // notifyIcon
             // 
             this.notifyIcon.ContextMenuStrip = this.menuMain;
+            this.notifyIcon.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon.Icon")));
             this.notifyIcon.Text = "CinemaDrape";
             this.notifyIcon.Visible = true;
             this.notifyIcon.MouseClick += new System.Windows.Forms.MouseEventHandler(this.EventNotifyIconMouseClick);

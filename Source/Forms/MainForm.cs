@@ -171,9 +171,6 @@ namespace CinemaDrape
                 // Finalize the menus (add the opacity track bar, the multi monitor support items, modernize the menu, etc.)
                 this.FinalizeMenus();
 
-                // Set the icon of the notification icon to the icon of the main form
-                this.notifyIcon.Icon = this.Icon;
-
                 // Create the quick start form
                 this.quickStartForm = QuickStartForm.Create(this);
 
