@@ -53,15 +53,15 @@
 
 ;Version Information
 
-  VIProductVersion "2.2.0.331"
+  VIProductVersion "2.2.0.332"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "ProductName" "CinemaDrape"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "Comments" "Focus on your current task by blanking or dimming other screen areas."
   VIAddVersionKey /LANG=${LANG_ENGLISH} "CompanyName" "Aurelitec"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "LegalTrademarks" ""
   VIAddVersionKey /LANG=${LANG_ENGLISH} "LegalCopyright" "Copyright © 2009-2017 Aurelitec (http://www.aurelitec.com)"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "FileDescription" "CinemaDrape Installer"
-  VIAddVersionKey /LANG=${LANG_ENGLISH} "FileVersion" "2.2.0.331"
-  VIAddVersionKey /LANG=${LANG_ENGLISH} "ProductVersion" "2.2.0.331"
+  VIAddVersionKey /LANG=${LANG_ENGLISH} "FileVersion" "2.2.0.332"
+  VIAddVersionKey /LANG=${LANG_ENGLISH} "ProductVersion" "2.2.0.332"
 
 ;--------------------------------------
 
@@ -86,7 +86,7 @@ Section
   WriteRegStr   HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "DisplayName" "CinemaDrape"
   WriteRegStr   HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "UninstallString" "$\"$INSTDIR\uninstall.exe$\""
   WriteRegStr   HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "QuietUninstallString" "$\"$INSTDIR\uninstall.exe$\" /S" 
-  WriteRegStr   HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "DisplayVersion" "2.2.0.331"
+  WriteRegStr   HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "DisplayVersion" "2.2.0.332"
   WriteRegStr   HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "DisplayIcon" "$\"$INSTDIR\cinemadrape.exe$\""
   WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "EstimatedSize" "181"
   WriteRegStr   HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\CinemaDrape" "HelpLink" "http://www.aurelitec.com/cinemadrape/help/"
