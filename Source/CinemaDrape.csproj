@@ -58,7 +58,7 @@
     <RunCodeAnalysis>false</RunCodeAnalysis>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>CinemaDrapeAppIcon.ico</ApplicationIcon>
+    <ApplicationIcon>CinemaDrapeAppIcon2.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
@@ -158,9 +158,8 @@
     <AdditionalFiles Include="stylecop.json" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CinemaDrapeAppIcon.ico" />
+    <Content Include="CinemaDrapeAppIcon2.ico" />
     <None Include="Resources\CinemaDrapeQuickStartFocusAreaV3.png" />
-    <None Include="Resources\CinemaDrapeQuickStartFocusAreaV2.png" />
   </ItemGroup>
   <ItemGroup>
     <Analyzer Include="packages\StyleCop.Analyzers.1.0.0\analyzers\dotnet\cs\Newtonsoft.Json.dll" />
