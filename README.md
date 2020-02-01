@@ -5,7 +5,7 @@ Use CinemaDrape to stop getting distracted by all those side elements, ads, or s
 
 CinemaDrape is very easy to use: adding a new transparent focus area is like drawing a rectangle. You can add as many focus areas as you need. And you can easily move or resize the focus areas using the mouse or arrow keys, save them for future reuse, pause or resume the drape, or change its color and opacity.
 
-![CinemaDrape Screenshot](https://user-images.githubusercontent.com/33293361/49229285-d6bc4580-f3f5-11e8-819e-dd8b52e40a42.png)
+![CinemaDrape Screenshot](Assets/Screenshots/cinemadrape-windows-readme-screenshot.png)
 
 ## Quotes
 
