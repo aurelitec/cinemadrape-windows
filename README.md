@@ -29,7 +29,7 @@ CinemaDrape is written in C# using Windows Forms and .NET Framework 2.0. The pro
 
 ## Contributions
 
-Contributions are welcome! For feature requests and bug reports please [submit an issue](https://github.com/aurelitec/cinemadrape-windows/issues).
+All contributions are welcome: code, documentation, graphics, design suggestions, and more. Please fork this repository and contribute back using [pull requests](https://github.com/aurelitec/cinemadrape-windows/pulls). For feature requests and bug reports please [submit an issue](https://github.com/aurelitec/cinemadrape-windows/issues).
 
 ## Sponsor
 
