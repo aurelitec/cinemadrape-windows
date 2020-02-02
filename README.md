@@ -31,9 +31,9 @@ CinemaDrape is written in C# using Windows Forms and .NET Framework 2.0. The pro
 
 All contributions are welcome: code, documentation, graphics, design suggestions, and more. Please fork this repository and contribute back using [pull requests](https://github.com/aurelitec/cinemadrape-windows/pulls). For feature requests and bug reports please [submit an issue](https://github.com/aurelitec/cinemadrape-windows/issues).
 
-## Sponsor
+## Author
 
-CinemaDrape (and all Aurelitec free applications) are supported by [East-Tec](http://www.east-tec.com), the home of [east-tec Eraser](http://www.east-tec.com/eraser/), the privacy tool that quickly and securely covers your online and PC tracks.
+CinemaDrape was created in 2010 by [Horațiu Tănescu](https://horatiu.me), cofounder of [East-Tec](https://www.east-tec.com) and original creator of [east-tec Eraser](https://www.east-tec.com/eraser/), the privacy solution that quickly and securely covers your online and PC tracks.
 
 ## License
 
